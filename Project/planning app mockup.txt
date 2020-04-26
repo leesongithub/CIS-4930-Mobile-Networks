@@ -1,0 +1,34 @@
+App Setup:
+Enter the phone number of a trusted friend or family member 
+
+
+Main Screen:
+- Overall status: Good
+- 
+- How are you feeling today? -> dropdown list of great / good / average / not great / bad
+- if they select not great / bad -> ???
+- 
+- Social connectivity: Less than average
+- Sleep quality: Above average
+- 
+
+
+Text Data Screen:
+- line graph of # texts received (grey), overlaid with line of # texts sent (blue), steep drop at end
+- horizontal dotted line indicating average value 
+- alert (!) notification at the bottom: you appear 
+
+Sleep Data Screen:
+- similar graph of hours of sleep per night, color indicating quality (green - yellow - red)
+- determined by time of night user stops using phone, to when first used in morning
+
+Physical Isolation (Bluetooth Encounter) Data Screen: 
+- "raw" data of number of non-unique Bluetooth encounters (e.g. "Your phone 
+- line graph of number of non-unique Bluetooth encounters (determined by BLE app)
+- 
+
+Weekly Schedule (Wifi Access Points) Data Screen:
+- "smoothed" data listing what buildings you go to daily, over a weekly schedule
+- 
+
+https://www.figma.com/file/H0UfhVVTUyGQBYiABHGp9j/Untitled?node-id=0%3A1
